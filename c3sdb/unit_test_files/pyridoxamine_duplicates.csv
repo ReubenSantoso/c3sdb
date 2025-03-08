@@ -1,0 +1,6 @@
+g_id,name,adduct,mass,z,mz,ccs,smi,chem_class_label,src_tag,ccs_type,ccs_method
+CCSBASE_90115B4094,Pyridoxamine,[M+H]+,169.0977,1,169.0977,134.0,CC1=NC=C(C(=C1O)CN)CO,small molecule,zhou1016,DT,"single field, calibrated with Agilent tune mix (Agilent)"
+CCSBASE_74C03B230D,Pyridoxamine,[M+H]+,169.0971492,1,169.0971492,135.7926908,CC1=NC=C(C(=C1O)CN)CO,small molecule,zhen0917,DT,stepped-field
+CCSBASE_F3DAB3015D,Pyridoxamine,[M+Na]+,191.0790912,1,191.0790912,148.4939321,CC1=NC=C(C(=C1O)CN)CO,small molecule,zhen0917,DT,stepped-field
+CCSBASE_DC1221F9CD,Pyridoxamine,[M-H]-,167.0826,1,167.0826,140.12,CC1=NC=C(C(=C1O)CN)CO,small molecule,zhen0917,DT,stepped-field
+CCSBASE_194B2D3D92,Pyridoxamine,[M+H]+,169.0977,1,169.0977,130.0,CC1=NC=C(C(=C1O)CN)CO,small molecule,pagl0314,TW,calibrated with polyalanine

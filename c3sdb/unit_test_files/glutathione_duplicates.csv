@@ -1,0 +1,8 @@
+g_id,name,adduct,mass,z,mz,ccs,smi,chem_class_label,src_tag,ccs_type,ccs_method
+CCSBASE_9A953FA5A9,Glutathione,[M+H]+,308.0916,1,308.0916,167.4,C(CC(=O)N[C@@H](CS)C(=O)NCC(=O)O)[C@@H](C(=O)O)N,small molecule,zhou1016,DT,"single field, calibrated with Agilent tune mix (Agilent)"
+CCSBASE_81B3AC4F5A,Glutathione,[M+Na]+,330.0730202,1,330.0730202,168.2328006,C(CC(=O)N[C@@H](CS)C(=O)NCC(=O)O)[C@@H](C(=O)O)N,small molecule,zhen0917,DT,stepped-field
+CCSBASE_BB61B8DBC0,Glutathione,[M-H]-,306.0765,1,306.0765,164.24,C(CC(=O)N[C@@H](CS)C(=O)NCC(=O)O)[C@@H](C(=O)O)N,small molecule,zhen0917,DT,stepped-field
+CCSBASE_66BAC2D93C,Glutathione,[M+H]+,308.091631,1,308.091631,164.6,N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(O)=O)C(O)=O,small molecule,ross0422,TW,calibrated with polyalanine and drug standards
+CCSBASE_59DD26EEE0,Glutathione,[M+Na]+,330.073574,1,330.073574,163.4,N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(O)=O)C(O)=O,small molecule,ross0422,TW,calibrated with polyalanine and drug standards
+CCSBASE_B28638F314,Glutathione,[M+K]+,346.047513,1,346.047513,166.9,N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(O)=O)C(O)=O,small molecule,ross0422,TW,calibrated with polyalanine and drug standards
+CCSBASE_437131F605,Glutathione,[M+H-H2O]+,290.081,1,290.081,161.2,N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(O)=O)C(O)=O,small molecule,ross0422,TW,calibrated with polyalanine and drug standards

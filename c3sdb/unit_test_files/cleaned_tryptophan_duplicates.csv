@@ -1,0 +1,2 @@
+g_id,name,adduct,mass,z,mz,ccs,smi,chem_class_label,src_tag,ccs_type,ccs_method
+CCSBASE_A4A3C644AA,TRYPTOPHAN,[M-H]-,203.0821,1,203.0821,142.4,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N,small molecule,nich1118,DT,"single field, calibrated with ESI Low Concentration Tuning Mix (Agilent)"

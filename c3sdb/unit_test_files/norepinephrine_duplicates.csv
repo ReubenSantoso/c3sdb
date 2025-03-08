@@ -1,0 +1,4 @@
+g_id,name,adduct,mass,z,mz,ccs,smi,chem_class_label,src_tag,ccs_type,ccs_method
+CCSBASE_F733EB1A53,Norepinephrine,[M+H-H2O]+,152.0711,1,152.0711,137.3,C1=CC(=C(C=C1[C@H](CN)O)O)O,small molecule,zhou1016,DT,"single field, calibrated with Agilent tune mix (Agilent)"
+CCSBASE_0598ACB0F2,Norepinephrine,[M+H-H2O]+,152.0711,1,152.0711,136.8,C1=CC(=C(C=C1[C@H](CN)O)O)O,small molecule,zhou1016,DT,"single field, calibrated with Agilent tune mix (Agilent)"
+CCSBASE_20B1183E5B,Norepinephrine,[M+H-H2O]+,152.0711,1,152.0711,128.5,NC[C@H](O)C1=CC(O)=C(O)C=C1,small molecule,ross0422,TW,calibrated with polyalanine and drug standards

@@ -1,0 +1,3 @@
+g_id,name,adduct,mass,z,mz,ccs,smi,chem_class_label,src_tag,ccs_type,ccs_method
+CCSBASE_2AEBCCE9BB,TRYPTOPHAN,[M+Na]+,227.0796,1,227.0796,147.6,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N,small molecule,nich1118,DT,"single field, calibrated with ESI Low Concentration Tuning Mix (Agilent)"
+CCSBASE_CD216055B3,TRYPTOPHAN,[M+Na]+,227.0796,1,227.0796,147.7,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N,small molecule,nich1118,DT,"single field, calibrated with ESI Low Concentration Tuning Mix (Agilent)"

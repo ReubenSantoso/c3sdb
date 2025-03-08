@@ -1,0 +1,3 @@
+g_id,name,adduct,mass,z,mz,ccs,smi,chem_class_label,src_tag,ccs_type,ccs_method
+CCSBASE_EDE26C89BF,β-Zearalanol,[M+H-H2O]+,305.1747439,1,305.1747439,175.33,OC1=C(C(O[C@@H](C)CCC[C@H]2O)=O)C(CCCCC2)=CC(O)=C1,small molecule,celm1120,TW,"calibrated with small molecules, 'System Suitability Test' mix"
+CCSBASE_058BA5B660,β-Zearalanol,[M+Na]+,345.1672439,1,345.1672439,180.34,OC1=C(C(O[C@@H](C)CCC[C@H]2O)=O)C(CCCCC2)=CC(O)=C1,small molecule,celm1120,TW,"calibrated with small molecules, 'System Suitability Test' mix"

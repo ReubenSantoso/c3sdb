@@ -1,0 +1,3 @@
+g_id,name,adduct,mass,z,mz,ccs,smi,chem_class_label,src_tag,ccs_type,ccs_method
+CCSBASE_9045F4FDB8,"13-podocarpatrien-3-one""",[M+H]+,229.1592,1,229.1592,148.7,Cc1ccc2c(c1)CC[C@H]1CC(=O)CC[C@]21C,small molecule,ross0422,TW,calibrated with polyalanine and drug standards
+CCSBASE_04FF22B6A1,"13-podocarpatrien-3-one""",[M+H]+,245.1541,1,245.1541,153.0,COc1ccc2c(c1)[C@@]1(C)CCC(=O)C[C@H]1CC2,small molecule,ross0422,TW,calibrated with polyalanine and drug standards

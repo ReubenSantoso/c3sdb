@@ -1,0 +1,13 @@
+g_id,name,adduct,mass,z,mz,ccs,smi,chem_class_label,src_tag,ccs_type,ccs_method
+CCSBASE_01E3C9FBA9,PE(36:2),[M+H]+,744.5543,1,744.5543,279.3,[C@](COP(=O)(O)OCCN)([H])(OC(CCCCCCCCC/C=C\C/C=C\CCCCC)=O)COC(CCCCCCCCCCCCCCC)=O,lipid,zhou0817,DT,"single field, calibrated with Agilent tune mix (Agilent)"
+CCSBASE_97042EC95D,PE(36:2),[M+Na]+,766.5363,1,766.5363,284.6,[C@](COP(=O)(O)OCCN)([H])(OC(CCCCCCCCC/C=C\C/C=C\CCCCC)=O)COC(CCCCCCCCCCCCCCC)=O,lipid,zhou0817,DT,"single field, calibrated with Agilent tune mix (Agilent)"
+CCSBASE_163E3E68C9,PE(36:2),[M-H]-,742.5387,1,742.5387,268.5,[C@](COP(=O)(O)OCCN)([H])(OC(CCCCCCCCC/C=C\C/C=C\CCCCC)=O)COC(CCCCCCCCCCCCCCC)=O,lipid,zhou0817,DT,"single field, calibrated with Agilent tune mix (Agilent)"
+CCSBASE_1C425096CA,PE(36:2),[M+Na]+,766.54,1,766.54,285.7,[C@](COP(=O)(O)OCCN)([H])(OC(CCCCCCCCC/C=C\C/C=C\CCCCC)=O)COC(CCCCCCCCCCCCCCC)=O,lipid,may_0114,DT,stepped-field
+CCSBASE_51810A9643,PE(36:2),[M+H]+,744.554,1,744.554,275.7,[C@](COP(=O)(O)OCCN)([H])(OC(CCCCCCCCC/C=C\C/C=C\CCCCC)=O)COC(CCCCCCCCCCCCCCC)=O,lipid,hine0217,TW,calibrated with phosphatidylcholines (ESI+) and phosphatidylethanolamines (ESI-)
+CCSBASE_796683919F,PE(36:2),[M-H]-,742.538,1,742.538,267.4,[C@](COP(=O)(O)OCCN)([H])(OC(CCCCCCCCC/C=C\C/C=C\CCCCC)=O)COC(CCCCCCCCCCCCCCC)=O,lipid,hine0217,TW,calibrated with phosphatidylcholines (ESI+) and phosphatidylethanolamines (ESI-)
+CCSBASE_5BAE4A16EE,PE(36:2),[M-H]-,742.53918,1,742.53918,276.0,[C@](COP(=O)(O)OCCN)([H])(OC(CCCCCCCCC/C=C\C/C=C\CCCCC)=O)COC(CCCCCCCCCCCCCCC)=O,lipid,groe0815,DT,stepped-field
+CCSBASE_8082B74C56,PE(36:2),[M-H]-,742.53918,1,742.53918,275.9,[C@](COP(=O)(O)OCCN)([H])(OC(CCCCCCCCC/C=C\C/C=C\CCCCC)=O)COC(CCCCCCCCCCCCCCC)=O,lipid,groe0815,DT,stepped-field
+CCSBASE_A4F5645D1D,PE(36:2),[M+H]+,744.55484,1,744.55484,293.0,[C@](COP(=O)(O)OCCN)([H])(OC(CCCCCCCCC/C=C\C/C=C\CCCCC)=O)COC(CCCCCCCCCCCCCCC)=O,lipid,groe0815,DT,stepped-field
+CCSBASE_0F9D5DB45B,PE(36:2),[M-H]-,742.539,1,742.539,269.17,CCCCCCCC\C=C/CCCCCCCC(=O)OCC(CO[P](O)(=O)OCCN)OC(=O)CCCCCCC\C=C/CCCCCCCC,lipid,hine0119,TW,"calibrated with phosphatidylcholines (ESI+) and phosphatidylethanolamines (ESI-), doubly charged cardiolipins calibrated with poly-DL-alanine"
+CCSBASE_9B608CF08E,PE(36:2),[M+H]+,744.5592,1,744.5592,276.82,CCCCCCCC\C=C/CCCCCCCC(=O)OCC(CO[P](O)(=O)OCCN)OC(=O)CCCCCCC\C=C/CCCCCCCC,lipid,hine0119,TW,"calibrated with phosphatidylcholines (ESI+) and phosphatidylethanolamines (ESI-), doubly charged cardiolipins calibrated with poly-DL-alanine"
+CCSBASE_0CAE5EA2D5,PE(36:2),[M+Na]+,766.536,1,766.536,279.31,[C@](COP(=O)(O)OCCN)([H])(OC(CCCCCCCCC/C=C\C/C=C\CCCCC)=O)COC(CCCCCCCCCCCCCCC)=O,lipid,tsug0220,TIMS,"single field, calibrated"

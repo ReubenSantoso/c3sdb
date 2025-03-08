@@ -1,0 +1,2 @@
+g_id,name,adduct,mass,z,mz,ccs,smi,chem_class_label,src_tag,ccs_type,ccs_method
+CCSBASE_B8734DD55C,PG(16:0/18:1),[M-H]-,747.51814,1,747.51814,276.9333,[H][C@](O)(CO)COP(OC[C@]([H])(OC(CCCCCCCCC/C=C\CCCCCCCCCC)=O)COC(CCCCCCCCCCC)=O)(=O)O,lipid,groe0815,DT,stepped-field

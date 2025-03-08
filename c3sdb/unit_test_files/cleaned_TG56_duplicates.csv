@@ -1,0 +1,2 @@
+g_id,name,adduct,mass,z,mz,ccs,smi,chem_class_label,src_tag,ccs_type,ccs_method
+CCSBASE_4E6082EBD5,TG(56:3),[M+NH4]+,930.849,1,930.849,333.095,C(OC(=O)CCCCCCCCC/C=C\CCCCCCCCCC)[C@]([H])(OC(CCCCCCC/C=C\CCCCCCC)=O)COC(CCCCCCC/C=C\CCCCCCC)=O,lipid,zhou0817,DT,"single field, calibrated with Agilent tune mix (Agilent)"

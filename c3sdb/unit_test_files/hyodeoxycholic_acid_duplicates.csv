@@ -1,0 +1,11 @@
+g_id,name,adduct,mass,z,mz,ccs,smi,chem_class_label,src_tag,ccs_type,ccs_method
+CCSBASE_97D1B19CD8,Hyodeoxycholic acid,[M-H]-,391.28218,1,391.28218,199.2,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H]([C@H]4[C@@]3(CC[C@H](C4)O)C)O)C,small molecule,pola0620,DT,"single field, calibrated"
+CCSBASE_20C56D98D2,Hyodeoxycholic acid,[M+H-2H2O]+,357.2767,1,357.2767,186.8,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H]([C@H]4[C@@]3(CC[C@H](C4)O)C)O)C,small molecule,pola0620,DT,"single field, calibrated"
+CCSBASE_85B95952CB,Hyodeoxycholic acid,[M+H-H2O]+,375.28726,1,375.28726,219.1,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H]([C@H]4[C@@]3(CC[C@H](C4)O)C)O)C,small molecule,pola0620,DT,"single field, calibrated"
+CCSBASE_5CD9FD88DB,Hyodeoxycholic acid,[M+HCOO]-,437.28766,1,437.28766,200.4,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H]([C@H]4[C@@]3(CC[C@H](C4)O)C)O)C,small molecule,pola0620,DT,"single field, calibrated"
+CCSBASE_8937A49CCB,Hyodeoxycholic acid,[M+K-H+Cl]-,465.21474,1,465.21474,203.1,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H]([C@H]4[C@@]3(CC[C@H](C4)O)C)O)C,small molecule,pola0620,DT,"single field, calibrated"
+CCSBASE_BAF06AF9B6,Hyodeoxycholic acid,[M+K-H+HCOO]-,475.24355,1,475.24355,206.5,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H]([C@H]4[C@@]3(CC[C@H](C4)O)C)O)C,small molecule,pola0620,DT,"single field, calibrated"
+CCSBASE_7D951A0E28,Hyodeoxycholic acid,[M+K-H+HCOO]-,555.74355,1,555.74355,223.9,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H]([C@H]4[C@@]3(CC[C@H](C4)O)C)O)C,small molecule,pola0620,DT,"single field, calibrated"
+CCSBASE_AAFA36987E,Hyodeoxycholic acid,[M+Na-2H]-,413.26413,1,413.26413,194.8,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H]([C@H]4[C@@]3(CC[C@H](C4)O)C)O)C,small molecule,pola0620,DT,"single field, calibrated"
+CCSBASE_6CA421245F,Hyodeoxycholic acid,[M+Na-H+Cl]-,449.2408,1,449.2408,199.5,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H]([C@H]4[C@@]3(CC[C@H](C4)O)C)O)C,small molecule,pola0620,DT,"single field, calibrated"
+CCSBASE_143C4814F8,Hyodeoxycholic acid,[M+Na-H+HCOO]-,459.26961,1,459.26961,203.6,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C[C@@H]([C@H]4[C@@]3(CC[C@H](C4)O)C)O)C,small molecule,pola0620,DT,"single field, calibrated"

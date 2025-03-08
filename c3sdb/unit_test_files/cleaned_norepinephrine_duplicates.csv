@@ -1,0 +1,2 @@
+g_id,name,adduct,mass,z,mz,ccs,smi,chem_class_label,src_tag,ccs_type,ccs_method
+CCSBASE_F733EB1A53,Norepinephrine,[M+H-H2O]+,152.0711,1,152.0711,137.05,C1=CC(=C(C=C1[C@H](CN)O)O)O,small molecule,zhou1016,DT,"single field, calibrated with Agilent tune mix (Agilent)"
